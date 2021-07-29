@@ -1,0 +1,8 @@
+# Atividade 1.
+
+Passo 1: Listar os números (Dados) que possuo para trabalhar.
+Passo 2: O programa será feito de modo que leia os dois números simultaneamente.
+Passo 3: O programa irá somar os dois dados escolhidos anteriormente.
+Passo 4: Após obter o resultado, o programa deve comparar o resultado com o ALVO.
+Passo 4.1: Se o resultado for DIFERENTE do ALVO. Voltar ao passo 1 Utilizando uma seleção de dados diferente da anterior.
+Passo 5: Se o resultado for IGUAL o ALVO. Programa o manterá.
